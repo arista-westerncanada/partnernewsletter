@@ -1,0 +1,19 @@
+site_name: Arista Western Canada — Partner Newsletter
+site_url: https://arista-westerncanada.github.io/partnernewsletter/
+site_description: Monthly partner enablement newsletter for AB, MB, and SK.
+
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+
+nav:
+  - April 2026: index.md
+
+plugins:
+  - search
